@@ -1,0 +1,10 @@
+{
+    "name": "user/prognet-oop",
+    "description": "Belajar Composer Autoload untuk OOP",
+    "autoload": {
+        "psr-4": {
+            "Sayur\\": "src/"
+        }
+    },
+    "require": {}
+}
